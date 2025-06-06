@@ -1,4 +1,4 @@
-# Example of embedded presentation
+# Example of presentation with embedded stuff therein
 
 > Files:
 - .qmd: the pres in Quarto
