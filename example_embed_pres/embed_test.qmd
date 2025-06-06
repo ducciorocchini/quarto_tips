@@ -1,0 +1,15 @@
+---
+title: "Mapping Earth's Pulse: Temporal Ridgeline Visualization in R"
+author: Duccio Rocchini
+format: 
+  revealjs:
+    theme: default
+    embed-resources: true
+editor: visual
+---
+
+## Motivation
+
+blablabla
+
+![](/Users/ducciorocchini/Documents/lectures_and_seminars/images/mountain.jpeg){fig-align="center"}
