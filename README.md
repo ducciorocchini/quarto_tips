@@ -60,3 +60,6 @@ editor: visual
 ---
 ```
 
+# Exporting to pdf
+in RStudio:
+ quarto::quarto_render("~/Documents/lectures_and_seminars/comec_2025_budapest/DUCCIOROCCHINI_Comec2025.qmd", output_format = "revealjs", output_file = "nome_file.pdf")
